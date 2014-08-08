@@ -1,0 +1,57 @@
+body{
+	background-color:#F6F1E0;
+	margin:          0;}
+
+p{
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif}
+
+header{
+	font-family:Constantia,
+	 			"Lucida Bright",
+			    "DejaVu Serif",
+			     Georgia,
+				 serif;
+	 background-color:#630001;
+	 align-content:center;
+	 color:#FFFCEC; 
+	 align-content:center}
+
+display{
+	 display:flex;}
+
+nav{
+	background-color:#CEAB6B;
+	clear:both;
+	align-content:center;}
+	
+nav ul {
+	list-style-type: none;
+	margin:0;
+	padding:0 0 20px 0;}
+	
+nav li {
+	float: right;
+	margin-right: 20px;
+}
+
+header{
+	font-size:500%; 
+	align-content:center;}
+
+
+img src{
+	align-content:center;}
+	
+div{
+	align-content:center;}
+	
+a:link{
+	color:#7A4E35}
+	
+a:visited{
+	color:#997A34}
+	
+a:active{
+	color:#8B7E5B}
+
+
