@@ -1,10 +1,33 @@
 body{
 	background-color:#F6F1E0;
 	margin:          0;
-	padding:  40px 40px 40px 40px}
+	margin-top:200px;}
 
 p{
-	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif}
+	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	padding: 0px 20px 0px 20px
+	}
+
+
+	
+header{
+	position:fixed;top:0;
+	width:100%;
+	font-size:100%;}
+	
+h1{text-align:center}
+	
+h2{
+	padding: 0px 0px 0px 20px
+}
+
+h3{
+	padding: 20px 20px 0 0
+}
+
+dt{
+	padding: 20px 20px 20px 20px
+}
 
 header{
 	font-family:Constantia,
@@ -16,12 +39,14 @@ header{
 	 align-content:center;
 	 color:#FFFCEC; 
 	 align-content:center;
-	 padding:20px 20px 20px 20px}
+	 padding:20px 20px 20px 20px;
+	 align-text:center;}
 
 display{
 	 display:flex;}
 
 nav{
+	padding:20px 20px 20px 20px;
 	background-color:#CEAB6B;
 	clear:both;
 	align-content:left;}
@@ -29,7 +54,8 @@ nav{
 nav ul {
 	list-style-type: none;
 	margin:0;
-	padding:0 0 20px 0;}
+	padding:0 0 20px 0;
+	text-align:center}
 	
 nav li {
 	float: left;
@@ -37,9 +63,7 @@ nav li {
 	margin-left: 40px;
 }
 
-header{
-	font-size:500%; 
-	align-content:center;}
+
 
 
 img src{
@@ -56,5 +80,10 @@ a:visited{
 	
 a:active{
 	color:#8B7E5B}
+
+footer{
+	font-size:small
+	}
+
 
 
