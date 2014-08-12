@@ -11,9 +11,7 @@ p{
 
 	
 header{
-	position:fixed;top:0;
-	width:100%;
-	font-size:100%;}
+	}
 	
 h1{text-align:center}
 	
@@ -22,14 +20,18 @@ h2{
 }
 
 h3{
-	padding: 20px 20px 0 0
+	padding: 0px 0px 0 20px
 }
 
 dt{
-	padding: 20px 20px 20px 20px
-}
-
+	padding: 0px 0px 0px 20px}
+dd{
+	padding: 0px 0px 5px 0px}
+	
 header{
+	position:fixed;top:0;
+	width:100%;
+	font-size:100%;
 	font-family:Constantia,
 	 			"Lucida Bright",
 			    "DejaVu Serif",
