@@ -1,7 +1,8 @@
 body{
 	background-color:#F6F1E0;
 	margin:          0;
-	margin-top:200px;}
+	margin-top:200px;
+	}
 
 p{
 	font:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
@@ -41,7 +42,7 @@ header{
 	 align-content:center;
 	 color:#FFFCEC; 
 	 align-content:center;
-	 padding:20px 20px 20px 20px;
+	 padding:0px 0px 0px 0px;
 	 align-text:center;}
 
 display{
@@ -51,18 +52,19 @@ nav{
 	padding:20px 20px 20px 20px;
 	background-color:#CEAB6B;
 	clear:both;
-	align-content:left;}
+	text-align:center;}
 	
 nav ul {
 	list-style-type: none;
 	margin:0;
 	padding:0 0 20px 0;
-	text-align:center}
+	align:center}
 	
 nav li {
 	float: left;
-	margin-right: 20px;
-	margin-left: 40px;
+	margin-right: 12%;
+	margin-left: 12%;
+	text-align:center;
 }
 
 
